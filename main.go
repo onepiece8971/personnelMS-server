@@ -3,8 +3,8 @@ package main
 import (
 	_ "github.com/joho/godotenv/autoload"
 
-	"trunk/develop/routers"
-	"trunk/develop/app/Models"
+	"personnelMS-server/routers"
+	"personnelMS-server/app/Models"
 )
 
 func main() {

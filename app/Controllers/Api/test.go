@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"net/http"
 
-	"test/app/Models"
+	"personnelMS-server/app/Models"
 )
 
 // 获取多个文章标签

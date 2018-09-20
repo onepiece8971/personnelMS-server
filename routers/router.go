@@ -3,7 +3,7 @@ package routers
 import (
     "github.com/gin-gonic/gin"
     
-    "test/app/Controllers/Api"
+    "personnelMS-server/app/Controllers/Api"
 )
 
 func InitRouter() *gin.Engine {
