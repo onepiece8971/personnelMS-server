@@ -1,6 +1,6 @@
 {
 	"comment": "",
-	"ignore": "test",
+	"ignore": "develop",
 	"package": [
 		{
 			"checksumSHA1": "QeKwBtN2df+j+4stw3bQJ6yO4EY=",
@@ -33,7 +33,7 @@
 			"revisionTime": "2018-07-20T16:52:55Z"
 		},
 		{
-			"checksumSHA1": "k9izYoyobR8Upb3Yjsw9htgE/Mk=",
+			"checksumSHA1": "rpmINRtFel8A6ZTQs5MZlLdOb2E=",
 			"path": "github.com/go-sql-driver/mysql",
 			"revision": "99ff426eb706cffe92ff3d058e168b278cabf7c7",
 			"revisionTime": "2018-07-19T07:19:42Z"
@@ -44,7 +44,7 @@
 			"revision": ""
 		},
 		{
-			"checksumSHA1": "f7M/c3JpA+2BnvJFLF7n+8GE9E8=",
+			"checksumSHA1": "RuiPx0vgHFrwFvFiX+rYwuNkkJ0=",
 			"path": "github.com/jinzhu/gorm",
 			"revision": "409121d9e394922787885b001d148a05e3a42b6c",
 			"revisionTime": "2018-07-26T23:43:49Z"
@@ -56,14 +56,20 @@
 			"revisionTime": "2018-07-26T23:43:49Z"
 		},
 		{
-			"checksumSHA1": "4eelJOSLZoDzLuaJvgilOBVNovU=",
+			"checksumSHA1": "a9OGllyRQRDhWbU2eCKl480H8bY=",
 			"path": "github.com/jinzhu/inflection",
 			"revision": "04140366298a54a039076d798123ffa108fff46c",
 			"revisionTime": "2018-03-08T03:36:59Z"
 		},
 		{
-			"checksumSHA1": "o0+6uQDysjh6+RsudtQDW3AOwec=",
+			"checksumSHA1": "1ds3pmK5s8UbdvNleD2dbDvy1oE=",
 			"path": "github.com/joho/godotenv",
+			"revision": "1709ab122c988931ad53508747b3c061400c2984",
+			"revisionTime": "2018-04-05T05:36:34Z"
+		},
+		{
+			"checksumSHA1": "UE4lhbPYYWEhqHXQk24OA73m5+8=",
+			"path": "github.com/joho/godotenv/autoload",
 			"revision": "1709ab122c988931ad53508747b3c061400c2984",
 			"revisionTime": "2018-04-05T05:36:34Z"
 		},
@@ -90,7 +96,22 @@
 			"path": "gopkg.in/yaml.v2",
 			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
 			"revisionTime": "2018-03-28T19:50:20Z"
+		},
+		{
+			"checksumSHA1": "KVamR1otiiAFI1AETKRLf6GGi90=",
+			"path": "test/app/Controllers/Api",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "mt7kq7CJKWFSsRIrbUWzaJijuho=",
+			"path": "test/app/Models",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "eTs+Lx69ntVOoOrMIr2Vq8InWFo=",
+			"path": "test/routers",
+			"revision": ""
 		}
 	],
-	"rootPath": "test"
+	"rootPath": "trunk/personnelMS-server"
 }

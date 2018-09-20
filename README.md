@@ -1,2 +1,2 @@
-# gin-init
-init gin progect
+# personnelMS-server
+personnelMS-server provide api for personnelMS-client
